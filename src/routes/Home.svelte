@@ -8,7 +8,7 @@
   </h1>
 
   <button class="bg-gradient-to-r from-orange-500 to-purple-500 mt-8 hover:bg-blue-200 text-white font-bold p-4 border-b-4 rounded-full w-48 hover:shadow-2xl">
-    Click here!
+    Click here!!
   </button>
   <div class="mt-8 text-2xl font-semibold">Made with <span style="color: #e25555;">&hearts;</span> by Dhanush</div>
 
